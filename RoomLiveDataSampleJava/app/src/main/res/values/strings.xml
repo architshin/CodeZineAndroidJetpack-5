@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Room+LiveDataサンプル</string>
+	<string name="tv_lb_name">選択されたカクテル</string>
+	<string name="tv_name">未選択</string>
+	<string name="tv_lb_price">金額:</string>
+	<string name="btn_save">保存</string>
+	<string name="msg_error_update">カクテル情報保存に失敗しました。</string>
+</resources>
